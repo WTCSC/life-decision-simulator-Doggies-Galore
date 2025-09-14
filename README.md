@@ -8,7 +8,9 @@ This applet guides you through the tragic tail of a dog who commits arson.
 ## Installation
 
 ```
-git clone 
+git clone https://github.com/WTCSC/life-decision-simulator-Doggies-Galore.git
+cd ./life-decision-simulator-Doggies-Galore
+python ./decision_tree.py
 ```
 
 ## License
