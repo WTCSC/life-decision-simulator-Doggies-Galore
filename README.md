@@ -1,1 +1,25 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/iDZRBYvt)
+# Life Decision Simulator
+
+This applet guides you through the tragic tail of a dog who commits arson. 
+
+## Requirements
+
+**No dependencies required. Run on any version of Python 3.**
+
+## Installation
+
+```
+git clone https://github.com/WTCSC/life-decision-simulator-Doggies-Galore.git
+cd ./life-decision-simulator-Doggies-Galore
+python ./decision_tree.py
+```
+
+## License
+
+This project is licensed under the MIT License
+
+## Decision Matrix
+
+<a href="https://excalidraw.com/#json=Ceg5XiS_H5It_jf718XvQ,uuuz7KyzCY_ur5SK-VinxQ">
+  <button>ExcaliDraw Decision Matrix</button>
+</a>
