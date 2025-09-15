@@ -2,6 +2,8 @@
 
 This applet guides you through the tragic tail of a dog who commits arson. 
 
+![alt text](https://github.com/WTCSC/life-decision-simulator-Doggies-Galore/blob/main/image.png?raw=true)
+
 ## Requirements
 
 **No dependencies required. Run on any version of Python 3.**
