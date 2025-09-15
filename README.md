@@ -1,6 +1,7 @@
 # Life Decision Simulator
 
 This applet guides you through the tragic tail of a dog who commits arson. 
+![alt text](https://github.com/WTCSC/life-decision-simulator-Doggies-Galore/blob/727280a6c9a8351e8a96031fe0ee066043ecb2c0/image.png?raw=true)
 
 ## Requirements
 
